@@ -30,7 +30,7 @@ session_start();
 								<button type="submit" name="submit">Logg inn</button>
 							</form>
 							<a href="signup.php">Registrer</a>
-							<a href="http://folk.ntnu.no/aarambo/forgotPw.php">Glemt passord</a>
+							<a href="http://folk.ntnu.no/xxx/forgotPw.php">Glemt passord</a>
 							';
 					}
 				?>
