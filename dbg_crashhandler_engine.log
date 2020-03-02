@@ -1,0 +1,7 @@
+0.58545: Constructing
+1.04853: Cleaning up old states
+1.04984: Launching crash_handler.exe
+7.50298: Attempting to attach to crash_handler.exe
+7.50303: Attaching
+7.50314: We should be out-of-process but we failed to attach?
+7.50316: Attached successfully (in-process).
